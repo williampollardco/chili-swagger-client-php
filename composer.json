@@ -28,7 +28,7 @@
         "friendsofphp/php-cs-fixer": "~2.12"
     },
     "autoload": {
-        "classmap": ["lib/*"]
+        "psr-4": { "Swagger\\Client\\" : "lib/" }
     },
     "autoload-dev": {
         "psr-4": { "Swagger\\Client\\" : "test/" }
