@@ -81,7 +81,7 @@ class Configuration
      *
      * @var string
      */
-    protected $host = 'http://cp-akw-054.chili-publish.online';
+    protected $host = 'https://cp-akw-054.chili-publish.online';
 
     /**
      * User agent of the HTTP request, set to "PHP-Swagger" by default
